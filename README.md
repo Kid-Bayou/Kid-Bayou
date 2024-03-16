@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 🔍
 Hello! Kidist here<br><br>A little about me.....<br>I'm a full stack developer.
 
 
