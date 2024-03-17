@@ -1,6 +1,6 @@
 
-# 🔍
-Hello! Kidist here<br><br>A little about me.....<br>I'm a full stack developer.
+# 👋 Hello! Kidist here
+A little about me.....<br>I'm a full stack developer.
 
 
 ## 🌐 Socials:
