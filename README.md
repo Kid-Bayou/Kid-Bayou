@@ -3,10 +3,8 @@
 A little about me.....<br>I'm a full stack developer.
 
 ## 🌐 WakaTime:
-<img
-  src="https://github.com/Kid-Bayou/Kid-Bayou/blob/main/images/stat.svg"
-  alt="My WakaTime Activity"
-/>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 🌐 Socials:
