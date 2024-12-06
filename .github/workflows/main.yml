@@ -1,35 +1,27 @@
-name: Update Total Time
 
+name: CI
+
+# Controls when the action will run. 
 on:
+  # Triggers the workflow on push or pull request events but only for the master branch
   schedule:
-    - cron: "0 0 * * *"  # Runs daily
+    - cron: '30 18 * * *'
   workflow_dispatch:
+  # Allows you to run this workflow manually from the Actions tab
 
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Fetch Total Time
-        run: |
-          curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
-               https://wakatime.com/api/v1/users/current/stats/all_time \
-               -o stats.json
-
-      - name: Display Total Time (Optional, for Debugging)
-        run: cat stats.json
-
-      - name: Update README
-        run: |
-          total_time=$(jq '.data.human_readable_total' stats.json)
-          sed -i "/<!--START_SECTION:waka-->/a Total Coding Time: $total_time" README.md
-
-      - name: Commit Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update total coding time"
-          git push
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: False
+          SHOW_PROFILE_VIEWS : False
+          SHOW_LOC_CHART: False
+          SHOW_SHORT_INFO : False
+          SHOW_DAYS_OF_WEEK : False
+          SHOW_COMMIT : False
+          SHOW_EDITORS: False
