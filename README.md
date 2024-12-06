@@ -4,7 +4,6 @@ A little about me.....<br>I'm a full stack developer.
 
 ## 🌐 WakaTime:
  <!--START_SECTION:waka-->
-Total Coding Time: null
 
 ```txt
 Other        1 hr 6 mins     ███████▓░░░░░░░░░░░░░░░░░   30.47 %
