@@ -1,16 +1,35 @@
-name: Work Stats Readme
+name: Update Total Time
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master 
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Total Time
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
+               https://wakatime.com/api/v1/users/current/stats/all_time \
+               -o stats.json
+
+      - name: Display Total Time (Optional, for Debugging)
+        run: cat stats.json
+
+      - name: Update README
+        run: |
+          total_time=$(jq '.data.human_readable_total' stats.json)
+          sed -i "/<!--START_SECTION:waka-->/a Total Coding Time: $total_time" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update total coding time"
+          git push
