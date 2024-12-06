@@ -2,6 +2,12 @@
 # 👋 Hello! Kidist here
 A little about me.....<br>I'm a full stack developer.
 
+## 🌐 WakaTime:
+<img
+  src="https://github.com/Kid-Bayou/Kid-Bayou/blob/main/images/stat.svg"
+  alt="My WakaTime Activity"
+/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kidist-gebrehiwot-996198248/) 
