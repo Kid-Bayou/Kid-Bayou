@@ -4,7 +4,7 @@ A little about me.....<br>I'm a full stack developer.
 
 ## 🌐 WakaTime:
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,7 +41,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2024 18:45:14 UTC
+ Last Updated on 07/12/2024 18:42:47 UTC
 <!--END_SECTION:waka-->
 
 
