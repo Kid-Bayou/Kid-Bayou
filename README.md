@@ -2,49 +2,6 @@
 # 👋 Hello! Kidist here
 A little about me.....<br>I'm a full stack developer.
 
-## 🌐 WakaTime:
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2055%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Riyadh
-
-💬 Programming Languages: 
-Other                    1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.47 % 
-C#                       59 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-
-🐱‍💻 Projects: 
-CyberErp                 1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   40.77 % 
-HEMS.Backend             55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-HEMS.Frontend            46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-HMS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-
-💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-GDScript                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-
-
- Last Updated on 07/12/2024 18:42:47 UTC
-<!--END_SECTION:waka-->
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kidist-gebrehiwot-996198248/) 
 
@@ -57,5 +14,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kid-Bayou&icon=0&color=6)](https://visitcount.itsvg.in)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
