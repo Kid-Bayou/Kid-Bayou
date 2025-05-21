@@ -12,10 +12,8 @@ A little about me.....<br>I'm a full stack developer.
 ---
 [![](https://visitcount.itsvg.in/api?id=Kid-Bayou&icon=0&color=6)](https://visitcount.itsvg.in)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2055%20mins-blue)
 
-
- Last Updated on 20/05/2025 18:48:17 UTC
+ Last Updated on 21/05/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
