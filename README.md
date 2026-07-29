@@ -12,30 +12,34 @@ A little about me.....<br>I'm a full stack developer.
 ---
 [![](https://visitcount.itsvg.in/api?id=Kid-Bayou&icon=0&color=6)](https://visitcount.itsvg.in)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%202%20mins-blue?style=flat)
+
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (95.9%)
+⏱ AI Coding Time: 2 hrs 6 mins (96.03%)
 
 ✍️ 597 lines written by AI, 3 lines written by hand (99.5% AI-written)
 
-🔤 39,967,879 Input Tokens, 212,987 Output Tokens
+🔤 40,227,966 Input Tokens, 219,809 Output Tokens
 
-💵 $123.10 Estimated AI Cost This Week
+💵 $123.98 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
 Sonnet                   685 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 908 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 874 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 19:58:59 UTC
+ Last Updated on 29/07/2026 19:50:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
