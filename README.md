@@ -19,27 +19,27 @@ A little about me.....<br>I'm a full stack developer.
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (96.03%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 597 lines written by AI, 3 lines written by hand (99.5% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 40,227,966 Input Tokens, 219,809 Output Tokens
+🔤 260,087 Input Tokens, 6,822 Output Tokens
 
-💵 $123.98 Estimated AI Cost This Week
+💵 $0.88 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Sonnet                   685 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 874 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 19:41:19 UTC
+ Last Updated on 04/08/2026 20:07:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
