@@ -12,6 +12,10 @@ A little about me.....<br>I'm a full stack developer.
 ---
 [![](https://visitcount.itsvg.in/api?id=Kid-Bayou&icon=0&color=6)](https://visitcount.itsvg.in)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%206%20mins-blue?style=flat)
+
 🤖 **AI Coding This Week** 
 
 ```text
@@ -19,7 +23,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 00:21:41 UTC
+ Last Updated on 07/08/2026 19:26:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
